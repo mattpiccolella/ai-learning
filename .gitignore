@@ -1,0 +1,5 @@
+venv/
+secrets.py
+*.jpg
+*.csv
+__pycache__
