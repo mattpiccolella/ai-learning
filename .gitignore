@@ -3,3 +3,4 @@ secrets.py
 *.jpg
 *.csv
 __pycache__
+.ipynb_checkpoints
